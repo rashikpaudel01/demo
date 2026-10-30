@@ -1,3 +1,3 @@
 # demo
-First repository
+This is my first repository.
 Author - Rashik Paudel
